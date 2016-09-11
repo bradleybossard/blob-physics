@@ -89,8 +89,8 @@
       return false;
     }
 		
-		public function toString() : String {
-			return "[AABB: " + Min + " : " + Max + "]";
-		}
+    public function toString() : String {
+      return "[AABB: " + Min + " : " + Max + "]";
+    }
   }
 }
